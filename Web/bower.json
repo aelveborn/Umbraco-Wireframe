@@ -1,0 +1,14 @@
+{
+  "name": "aelveborn",
+  "version": "0.0.0",
+  "authors": [
+    "Andreas Älveborn <aelveborn@gmail.com>"
+  ],
+  "homepage": "aelveborn.com",
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "1.11.3",
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}

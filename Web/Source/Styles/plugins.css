@@ -1,0 +1,4 @@
+/* Use styles folder to put plugins not supported by npm */
+body {
+    padding: 20px;
+}
